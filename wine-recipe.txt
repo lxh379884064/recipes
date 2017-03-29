@@ -1,0 +1,6 @@
+Ingredients:
+ - beer1
+ - beer2
+
+Directions:
+  1.mix 1 to 2.
